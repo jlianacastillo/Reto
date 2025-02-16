@@ -11,6 +11,7 @@
 * NOTE (Nota)
 * TIP (Tips)
 * WARNING (Advertencia)
+* CAUTION (Precaucion)
   
 > [!IMPORTANT]
 > Practica de important
@@ -27,3 +28,7 @@
 > [!WARNING]
 > Practica de warning
 > Esta es una advertencia
+
+> [!CAUTION]
+> Practica de caution
+> Esta es una precaucion
